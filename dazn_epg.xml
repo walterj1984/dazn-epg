@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Grok-DAZN-ES-EPG" generator-info-url="https://x.ai">
+  <channel id="dazn_es_8">
+    <display-name>DAZN ES 8</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_9">
+    <display-name>DAZN ES 9</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_16">
+    <display-name>DAZN ES 16</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_20">
+    <display-name>DAZN ES 20</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_19">
+    <display-name>DAZN ES 19</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_18">
+    <display-name>DAZN ES 18</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_17">
+    <display-name>DAZN ES 17</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_32">
+    <display-name>DAZN ES 32</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_10">
+    <display-name>DAZN ES 10</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_1">
+    <display-name>DAZN ES 1</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_3">
+    <display-name>DAZN ES 3</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_5">
+    <display-name>DAZN ES 5</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_22">
+    <display-name>DAZN ES 22</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_21">
+    <display-name>DAZN ES 21</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_11">
+    <display-name>DAZN ES 11</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_2">
+    <display-name>DAZN ES 2</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+  <channel id="dazn_es_6">
+    <display-name>DAZN ES 6</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" />
+  </channel>
+
+  <programme start="20260315230000 +0000" stop="20260316030000 +0000" channel="dazn_es_8">
+    <title>Como - AS Roma</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="20260315233000 +0000" stop="20260316023000 +0000" channel="dazn_es_16">
+    <title>Málaga CF - SD Huesca</title>
+    <desc>Segunda División</desc>
+  </programme>
+  <programme start="20260315233000 +0000" stop="20260316023000 +0000" channel="dazn_es_9">
+    <title>SD Eibar - Burgos CF</title>
+    <desc>Segunda División</desc>
+  </programme>
+  <programme start="20260315233000 +0000" stop="20260316023000 +0000" channel="dazn_es_20">
+    <title>Türkiye vs. Australia</title>
+    <desc>International Match</desc>
+  </programme>
+  <programme start="20260315233000 +0000" stop="20260316023000 +0000" channel="dazn_es_19">
+    <title>VfL Wolfsburg - Bayer 04 Leverkusen</title>
+    <desc>Frauen-Bundesliga (Women's)</desc>
+  </programme>
+  <programme start="20260315233000 +0000" stop="20260316023000 +0000" channel="dazn_es_18">
+    <title>Coviran Granada - BAXI Manresa</title>
+    <desc>Baloncesto - Liga ACB</desc>
+  </programme>
+  <programme start="20260315233000 +0000" stop="20260316023000 +0000" channel="dazn_es_17">
+    <title>Joventut Badalona - FC Barcelona + La Prórroga</title>
+    <desc>Baloncesto - Liga ACB + Post-partido</desc>
+  </programme>
+  <programme start="20260316000000 +0000" stop="20260316040000 +0000" channel="dazn_es_32">
+    <title>New Zealand vs. United States</title>
+    <desc>FIBA Women's Basketball World Cup Qualifier</desc>
+  </programme>
+  <programme start="20260316000000 +0000" stop="20260316040000 +0000" channel="dazn_es_10">
+    <title>France vs. Nigeria</title>
+    <desc>International</desc>
+  </programme>
+  <programme start="20260316003000 +0000" stop="20260316040000 +0000" channel="dazn_es_1">
+    <title>Big Ten Championship Game: Michigan vs. Purdue</title>
+    <desc>Baloncesto universitario - Big Ten</desc>
+  </programme>
+  <programme start="20260316003000 +0000" stop="20260316053000 +0000" channel="dazn_es_3">
+    <title>Real Sociedad - CA Osasuna + El Post</title>
+    <desc>LaLiga + Post-partido</desc>
+  </programme>
+  <programme start="20260316014500 +0000" stop="20260316064500 +0000" channel="dazn_es_5">
+    <title>Lazio - AC Milan</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="20260316020000 +0000" stop="20260316060000 +0000" channel="dazn_es_22">
+    <title>Trenton BIC - Paterson U</title>
+    <desc>Deporte universitario</desc>
+  </programme>
+  <programme start="20260316020000 +0000" stop="20260316060000 +0000" channel="dazn_es_21">
+    <title>Real Sporting - CD Castellón</title>
+    <desc>Segunda División</desc>
+  </programme>
+  <programme start="20260316020000 +0000" stop="20260316060000 +0000" channel="dazn_es_11">
+    <title>Race | Pennzoil 400 presented by Jiffy Lube</title>
+    <desc>NASCAR</desc>
+  </programme>
+  <programme start="20260316031500 +0000" stop="20260316071500 +0000" channel="dazn_es_2">
+    <title>Italy vs. Spain</title>
+    <desc>International Match</desc>
+  </programme>
+  <programme start="20260316032500 +0000" stop="20260316072500 +0000" channel="dazn_es_6">
+    <title>Pirelli Trophy & Coppa Shell, Race 2 | Thermal Club</title>
+    <desc>Automovilismo - Ferrari Challenge</desc>
+  </programme>
+</tv>
